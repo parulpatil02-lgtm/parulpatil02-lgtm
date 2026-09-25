@@ -1,6 +1,6 @@
 # Hi, I'm Parul Patil
 
-Recent master's graduate looking for data analyst, business analyst and BI analyst roles. I build projects that start from a business
+Master's graduate who turns data into business decisions. I build projects that start from a business
 decision, use real data, and say plainly what was measured and what was assumed.
 
 ## Projects

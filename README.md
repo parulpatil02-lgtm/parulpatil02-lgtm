@@ -15,5 +15,5 @@ measured results from estimates and assumptions.
 
 ## Contact
 
-- Email: ppatil57@asu.edu
-- LinkedIn: _add your link here_
+- Email: patilparul02@gmail.com
+- LinkedIn: https://www.linkedin.com/in/parulpatil02/

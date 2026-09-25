@@ -1,7 +1,6 @@
 # Hi, I'm Parul Patil
 
-Master's graduate who turns data into business decisions. I build projects that start from a business
-decision, use real data, and say plainly what was measured and what was assumed.
+Master's graduate in Data Science and Analytics who turns data into business decisions. I build projects that start from a business decision, use real data, and say plainly what was measured and what was assumed.
 
 ## Projects
 

@@ -15,5 +15,4 @@ measured results from estimates and assumptions.
 
 ## Contact
 
-- Email: patilparul02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/parulpatil02/
